@@ -1,0 +1,22 @@
+{
+  "records": 2000,
+  "html_files": 2014,
+  "movie_pages": 2000,
+  "category_pages": 10,
+  "analytics_pages": 2014,
+  "category_card_total": 2000,
+  "category_counts": {
+    "hot-movies": 200,
+    "classic-films": 200,
+    "korean-american": 200,
+    "domestic-series": 200,
+    "action-adventure": 200,
+    "romance-comedy": 200,
+    "crime-suspense": 200,
+    "fantasy-sci-fi": 200,
+    "family-animation": 200,
+    "new-releases": 200
+  },
+  "missing_links": [],
+  "zip_size": 9676358
+}
